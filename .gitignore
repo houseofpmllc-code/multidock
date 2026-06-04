@@ -1,0 +1,18 @@
+# Compiled app bundle
+MultiDock.app/
+
+# Distribution zips
+*.zip
+
+# Swift build artifacts
+.build/
+*.o
+*.d
+*_bin
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
