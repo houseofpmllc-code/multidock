@@ -42,5 +42,6 @@ To have MultiDock start automatically:
 ## Notes
 
 - MultiDock reads your Dock layout from `~/Library/Preferences/com.apple.dock.plist`.
-- It does not require any special permissions.
+- On first launch, macOS will ask for **Accessibility** permission — grant it so MultiDock can raise app windows on your secondary monitor.
+- Use the menu bar icon to change icon size, choose which monitors to show MultiDock on, or quit.
 - To stop it, click the menu bar icon → **Quit MultiDock**.
